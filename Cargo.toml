@@ -1,0 +1,8 @@
+[package]
+name = "build-rayon"
+version = "0.1.0"
+authors = ["Roman Zeyde <me@romanzey.de>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.0.3"
